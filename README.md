@@ -1,6 +1,6 @@
 # Indoor UAV Docker
 
-This is the indoor uav docker that should be used for assignments related to integration. 
+This is the indoor uav simulation docker file, built using ROS noetic distro and Gazebo Simulation. 
 
 ## Contents
 
