@@ -1,4 +1,4 @@
-# Indoor UAV assignment Docker
+# Indoor UAV Docker
 
 This is the indoor uav docker that should be used for assignments related to integration. 
 
