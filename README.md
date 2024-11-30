@@ -25,5 +25,3 @@ There is no bashrc file inside the docker, so the run script does all the sourci
 The source files should be inside assignment/src and properly built/sourced.
 
 Feel free to add dependencies on the docker build if they are necessary for the task.
-
-Don't forget: We should be able to run the assignment easily, so please document all changes and all steps necessary to run the deliverables.
